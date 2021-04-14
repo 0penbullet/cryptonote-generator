@@ -2,7 +2,7 @@
 	"extensions": [ "core/bytecoin.json", "print-genesis-tx.json" ],
 	"base_coin":{
 		"name":"bytecoin",
-		"git":"https://github.com/amjuarez/bytecoin.git"
+		"git":"https://github.com/bcndev/bytecoin.git"
 	},
 	"core":{
 		"CRYPTONOTE_NAME":"OBCOIN",
